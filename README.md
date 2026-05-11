@@ -1,4 +1,4 @@
-# Publication-Ecological-Informatics-2026
+# Publication_Elhefnawy_et_al_2026_Ecological_Informatics
 Shared data and code from Elhefawi et al 2026 Ensemble learning; Data fusion; Deep learning; Forest Inventory; Harvester Data;
 Wood Volume Prediction. Ecological Informatics XX:XXX-XXXX
 
